@@ -1,3 +1,1 @@
-whoami
-ls /etc
-cat /etc/passwd
+echo "hello" > /tmp/hello.txt
